@@ -34,20 +34,15 @@ IW3" crossorigin="anonymous">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-12 col-sm-12">
-                <div class="card shadow-lg border-0 rounded-
-lg mt-5 mx-auto" style="width: 30rem;">
-                    <h3 class="card-header display-1 text-
-muted text-center">
-404
+                <div class="card shadow-lg border-0 rounded-lg mt-5 mx-auto" style="width: 30rem;">
+                    <h3 class="card-header display-1 text-muted text-center"> 404
 </h3>
-    <span class="card-subtitle mb-2 text-
-muted text-center">
+    <span class="card-subtitle mb-2 text-muted text-center">
     Page Could Not Be Found
     </span>
         <div class="card-body mx-auto">
             <a type="button" href="<?=
-base_url('/'); ?>" class="btn btn-info text-white"> Back To
-Home </a>
+base_url('/'); ?>" class="btn btn-info text-white"> Back To Home </a>
                     </div>
                 </div>
             </div>
